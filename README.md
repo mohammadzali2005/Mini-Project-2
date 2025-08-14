@@ -4,7 +4,7 @@ Mini-Project-2 is a small web project I built to practice and improve my **HTML*
 It’s a simple, beginner-friendly project that demonstrates basic layout, styling, and responsive design techniques.
 
 ## 🚀 Live Demo
-You can view the project online here: [Live Demo](https://mohammadzali2005.github.io/Mini-Project_2/)
+You can view the project online here: [Live Demo](https://mohammadzali2005.github.io/Mini-Project-2/)
 
 ## 🛠 Technologies Used
 - **HTML5**
@@ -19,5 +19,5 @@ If you want to work on this project yourself, you can download the starter files
 
 ## How to Use
 1. Clone the repository: 
-	git clone https://github.com/mohammadzali2005/Mini-Project_2.git
+	git clone https://github.com/mohammadzali2005/Mini-Project-2
 
